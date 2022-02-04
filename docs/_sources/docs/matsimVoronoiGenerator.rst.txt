@@ -1,0 +1,7 @@
+matsimVoronoiGenerator module
+=============================
+
+.. automodule:: matsimVoronoiGenerator
+   :members:
+   :undoc-members:
+   :show-inheritance:
